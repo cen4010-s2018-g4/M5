@@ -4,8 +4,8 @@
 
 Milestone 5 is the final delivery of your term project. It provides the basis for final project grading. Milestone 5 consists:
 1) Live demonstration and presentation of your application
-2) Delivery of a complete final project portfolio
-We strongly recommend all team members attend the final project demonstration.
+2) Delivery of a complete final project portfolio <br>
+We strongly recommend all team members attend the final project demonstration. <br>
 Final project will be graded based on final project grading rubric. Make sure no required section is missing. Pay attention to your content and format.
 
 ## 2 Delivery 1: Demonstration of your final product
