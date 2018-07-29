@@ -60,15 +60,15 @@ https://analytics.google.com/analytics/web/provision/?authuser=0#provision/SignU
 ### 3.7 Post-project analysis (one page or so)
 
 In many organizations, after the project is finished, people engage in analysis of the experience, issues, and lessons learned. In the classroom, one often learns more from mistakes. But for real learning to happen, one needs to be able to understand what mistakes were made and what would need to be done to avoid them in the future. BTW: this is also worthy of discussion in your job interviews – employers love those real stories about challenges and how there were dealt with.
-In about one page team lead should summarize: a) main challenges; and b) what would you do better next time to address those challenges. Team lead should consult with team members before completing this task. Please be honest and identify issues and mistakes, this will help your learning.
+In about one page team lead should summarize: a) main challenges; and b) what would you do better next time to address those challenges. Team lead should consult with team members before completing this task. Please be honest and identify issues and mistakes, this will help your learning. <br>
 Also include:
 1) Features you have finished and those you’d like to finish but couldn’t be able to, and the reasons
 2) Knowledge gained and lessons learnt from your project and teamwork
 
 
 ## 4 Submission
-Submit the following to Canvas by due date:
-a. Final project report, in word format,
+Submit the following to Canvas by due date: <br>
+a. Final project report, in word format, <br>
 b. Your presentation PPT
 
 
