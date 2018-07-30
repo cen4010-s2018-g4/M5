@@ -234,21 +234,23 @@ Keeps count of how many times user fails to login
 ## 5. Team Members Contribution
 
 
-Jessica Carmona Matos
+Jessica Carmona Matos <br>
 Contribution Points: 
 
 
-Tri Nguyen
-Contribution Points: 
-
-
-
-Vinh Huynh
+Tri Nguyen <br>
 Contribution Points: 
 
 
 
-Carl Saintilmont
+Vinh Huynh <br>
+Contribution Points: 
+
+
+
+Carl Saintilmont <br>
 Contribution Points: 
 
 ## 6. Post-project Analysis
+
+
