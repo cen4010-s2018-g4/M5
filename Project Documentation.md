@@ -1,5 +1,13 @@
 ## 1. Project Summary
 
+1. Name of product...
+Campus Snapshot: FAUBook
+
+2. Look at pdf instructions
+
+3. Describe unique features if any
+
+4. URL to product: 
 
 
 ## 2. Milestone Documents
@@ -226,7 +234,9 @@ Keeps count of how many times user fails to login
 
 
 
+
 ## 4. Google Analytics
+
 
 
 
@@ -235,21 +245,41 @@ Keeps count of how many times user fails to login
 
 
 Jessica Carmona Matos <br>
-Contribution Points: 
+Contribution Points: 25 points <br>
+-
+-
+-
+-
+Number of submissions on GitHub:
 
 
 Tri Nguyen <br>
-Contribution Points: 
-
+Contribution Points: 25 points <br>
+-
+-
+-
+-
+Number of submissions on GitHub:
 
 
 Vinh Huynh <br>
-Contribution Points: 
-
+Contribution Points: 25 points <br>
+-
+-
+-
+-
+Number of submissions on GitHub:
 
 
 Carl Saintilmont <br>
-Contribution Points: 
+Contribution Points: 25 points <br>
+-
+-
+-
+-
+Number of submissions on GitHub:
+
+
 
 ## 6. Post-project Analysis
 
