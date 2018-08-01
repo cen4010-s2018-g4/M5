@@ -246,37 +246,58 @@ Keeps count of how many times user fails to login
 
 Jessica Carmona Matos <br>
 Contribution Points: 25 points <br>
-- Aid in writing milestone reports
--
--
--
+
+- Aid in writing all milestone's reports
+- Final review and editing of reports before submission
+- Submission of all milestone documents to canvas
+- Assigning tasks to team members and updating information on Trello
+- Email professor in the event of questions
+- Database creation
+- GUI mockup page creation 
+- Demo video recording
+- 
+- 
+
 Number of submissions on GitHub:
 
 
 Tri Nguyen <br>
 Contribution Points: 25 points <br>
-- Aid in writing milestone reports
+
+- Aid in writing all milestone's reports
+- Delegating tasks for each members
+- Creation of team's Github and Trello accounts
+- Database creation 
+- GUI mockup page creation 
+- Prototype development with user login/register, email confirmation, and security precautions
+- 
 -
--
--
+
 Number of submissions on GitHub:
 
 
 Vinh Huynh <br>
 Contribution Points: 25 points <br>
-- Aid in writing milestone reports
+
+- Aid in writing all milestone's reports
+- GUI mockup multiple page creation 
+- Design UI for website 
+- Prototype development editing of page's layout 
 -
 -
--
+
 Number of submissions on GitHub:
 
 
 Carl Saintilmont <br>
 Contribution Points: 25 points <br>
-- Aid in writing milestone reports
+
+- Aid in writing all milestone's reports
+- GUI mockup page creation 
+- Various diagram creations for reports
 - 
 -
--
+
 Number of submissions on GitHub:
 
 
