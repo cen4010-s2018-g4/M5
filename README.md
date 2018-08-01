@@ -60,6 +60,7 @@ https://analytics.google.com/analytics/web/provision/?authuser=0#provision/SignU
 ### 3.7 Post-project analysis (one page or so)
 
 Main challenges
+
 Working together with 401 to realize this project was a big experience for everyone. First we need to recognize the effort that everyone put together to make this happen. The goal of this project is to make a connection with everyone at the university including student and staff members with our “Campus Snapshots” web application. This project was challenging in multiples area.  Project Management helped keep this project together. 
 Halfway in the project we had a time management issue due to work overload. Some of the team members had to step in to help the members that were struggling. Therefore, the team had to revise tasks distribution among members.  
 This issue affected the skill performance for some of the team members. We proceeded with reassessing each member’s skills and reassigning the tasks thereby ensuring timely completion of the application. 
