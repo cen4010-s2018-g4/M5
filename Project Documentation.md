@@ -9,6 +9,8 @@ Campus Snapshot: FAUBook
 
 4. URL to product: 
 
+    
+    
 
 ## 2. Milestone Documents
 
@@ -261,6 +263,7 @@ Contribution Points: 25 points <br>
 Number of submissions on GitHub:
 
 
+
 Tri Nguyen <br>
 Contribution Points: 25 points <br>
 
@@ -276,6 +279,7 @@ Contribution Points: 25 points <br>
 Number of submissions on GitHub:
 
 
+
 Vinh Huynh <br>
 Contribution Points: 25 points <br>
 
@@ -287,6 +291,7 @@ Contribution Points: 25 points <br>
 -
 
 Number of submissions on GitHub:
+
 
 
 Carl Saintilmont <br>
