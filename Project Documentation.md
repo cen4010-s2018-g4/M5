@@ -246,7 +246,7 @@ Keeps count of how many times user fails to login
 
 Jessica Carmona Matos <br>
 Contribution Points: 25 points <br>
--
+- Aid in writing milestone reports
 -
 -
 -
@@ -255,7 +255,7 @@ Number of submissions on GitHub:
 
 Tri Nguyen <br>
 Contribution Points: 25 points <br>
--
+- Aid in writing milestone reports
 -
 -
 -
@@ -264,7 +264,7 @@ Number of submissions on GitHub:
 
 Vinh Huynh <br>
 Contribution Points: 25 points <br>
--
+- Aid in writing milestone reports
 -
 -
 -
@@ -273,8 +273,8 @@ Number of submissions on GitHub:
 
 Carl Saintilmont <br>
 Contribution Points: 25 points <br>
--
--
+- Aid in writing milestone reports
+- 
 -
 -
 Number of submissions on GitHub:
