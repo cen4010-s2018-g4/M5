@@ -1,7 +1,5 @@
 ## 1. Project Summary
 
-1. Name of product...
-Campus Snapshot: FAUBook
 
 2. Look at pdf instructions
 
@@ -9,6 +7,10 @@ Campus Snapshot: FAUBook
 
 4. URL to product: 
 
+    
+    Our team has developed the web application "FAUBook" based off the Campus Snapshot project theme. This web application was developed in order to provide a centralized website where various users can post about events happening on campus. Students, faculty, and administrators are able interact in order to stay up-to-date with current activities. However, the main purpose of FAUBook is to allow users to report issues that arise throughout campus. Due to the large size of the university campus, it is difficult for campus administrators to keep up with all of the problems like broken A/C, leakage bathroom, etc. Therefore, allowing users to report any issues they encounter while walking around campus will help identify and solve these issues quickly. 
+    
+    
     
     
 
