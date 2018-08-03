@@ -338,30 +338,22 @@ Number of submissions on GitHub:
 
 ## 6. Post-project Analysis
 
+Our team has worked together throughout the semester in order to develop and deliver a functional web application which we named FAUBook. 
+This project was challenging in multiples areas, but project management helped keep the team on the right track. Halfway through the project we had a time management issue due to the work overload of some team members and their respectively courses. Due to this, other team members had to step in to help those who were struggling and therefore the team had to revise tasks distribution among members.
+This issue affected the skill performance for some of the team members. We proceeded with reassessing each member’s skills and reassigning the tasks thereby ensuring timely completion of the application. The team was also faced with communication issues. Each member had a personal schedule different than the other which made it difficult for us to arrange group meetings as frequently as they should have been. This, in turn, created a lack of communication between group members. We addressed this issue by modifying our goal to have tasks completed before due date which gave us ample time to review each member’s work before submitting the project as a whole.
 
+In order to address these challenges in the future we should formulate a more solid plan from the start. Prior to starting the project, we should develop a workable project schedule that gives us time to constantly track our progress for better transparency. We should have reliable meeting expectations that fit with all team members. Also, team members must accurately share their skillset in order to be assigned tasks they can achieve. Finally, using effective communication skills is one of the key tools that will ensure the success of the team in delivering a project that will guarantee satisfied and happy customers.
 
-=======
-Main challenges
-
-Working together with 401 to realize this project was a big experience for everyone. First we need to recognize the effort that 
-everyone put together to make this happen. The goal of this project is to make a connection with everyone at the university including 
-student and staff members with our “Campus Snapshots” web application. This project was challenging in multiples area. Project 
-Management helped keep this project together. Halfway in the project we had a time management issue due to work overload. Some of 
-the team members had to step in to help the members that were struggling. Therefore, the team had to revise tasks distribution among 
-members.
-This issue affected the skill performance for some of the team members. We proceeded with reassessing each member’s skills and 
-reassigning the tasks thereby ensuring timely completion of the application. The team was faced with communication issues. Each 
-member had a personal schedule different than the other. It made it difficult for us to arrange group meetings as frequently as it 
-should have been. This created a lack of communication between group members. We addressed this issue by modifying our goal to have 
-tasks completed before due date. This gave us ample time to review each member’s work before submitting the project as a whole.
-
-What will we do better next time to address these challenges?
-
-To address these challenges in the future we should do the following. Before starting the project we should develop a workable 
-project schedule that gives us time to constantly track our progress for better transparency. We should have reliable meeting 
-expectations. Finally, using effective communication skills is one of the key tools that will ensure the success of the team in 
-delivering a project that will guarantee satisfied and happy customers.
 
 Features you have finished and those you’d like to finish but couldn’t be able to, and the reasons?
+
+*Finish once we know which features have been completed
+
+
 Knowledge gained and lessons learnt from your project and teamwork
+
+This project was a learning experience for all of us group members due to the fact that we were able to enhance our skills or develop new ones. We were able to work with databases, create GUI mockups using the program Balsamiq, create use-case diagrams, among many other tasks. All of these tasks were helpful in the creation of this project. As far as teamwork, we learned that communication is extrememly important especially when all members have different schedules. We also learned that due to the different skills, or lack thereof, members need to play to each other's strengths in order to be successful. Ultimately, this project was a team effort which helped each of us to learn something new.
+
+
+
 
