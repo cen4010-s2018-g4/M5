@@ -3,22 +3,42 @@
 1. Product Name: FAUBook
 
 2. Major Committed Functions
--
--
--
--
--
--
--
--
+
+*EDIT AFTER REVIEWING ALL ACHIEVED FUNCTIONS
+*functions previously marked as priority 1
+
+- Users should be able to create an account. 
+- Administrative users should be able to have an account created/given by the person in charge of running the website
+- Users should be able to answer security questions while registering in the event they forget their username and/or password.
+- Users should be able to find their account through a recovery page through the username or email used to register.
+- Users should be able to reset their password after correctly answering set security questions.
+- Users should be able to log in and out after having registered.
+- Users should be able to post images and write comments on posts by other users.
+- Users should be able to delete their own post.
+- Administrative users should be able to label user's posts as verified or not verified after checking whether or not the information is credible.
+- Administrative users should be able yo update the status of a report submitted by user. A report refers to posts detailing an issue happening throughout campus.
+
+*functions previously marked as priority 2 and 3 
+
+- Users should be able to edit their post, comments and profiles.
+- Administrative users should be able to delete anyone's post if it is wrong or unthruthful.
+- Administrative users should be able to block/ban a user if necessary.
+- Users should be able to search for already existing posts.
+- Users should be able to post videos.
+- Users should be able to make friends and have a friends list.
+- Users should be able to share a post with any of their friends.
+- Users should be able to chat with their friends, as well as, administrative users.
+- Users should be able to check for the weather within the web page.
+- Users should be able to check for the date in the calendar section.
+
 
 3. Unique Features
--
--
--
--
+- Content monitoring in order to maintain website running smoothly.
+- Weather system to alert students of weather conditions on campus.
+- Users should be able to scroll throguh website and see general content without signing in.
 
-4. URL to product: 
+
+4. URL to product: __________________________________
 
 
 
@@ -243,8 +263,7 @@ Keeps count of how many times user fails to login
 
 ## 3. Product Screenshots
 
-
-
+*Insert site images
 
 
 ## 4. Google Analytics
