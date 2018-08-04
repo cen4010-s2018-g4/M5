@@ -329,7 +329,7 @@ Contribution Points: 25 points <br>
 - Aid in writing all milestone's reports
 - GUI mockup page creation 
 - Various diagram creations for reports
-- 
+- Final Powerpoint creation
 -
 
 Number of submissions on GitHub:
