@@ -268,7 +268,7 @@ Keeps count of how many times user fails to login
 
 ## 4. Google Analytics
 
-
+*Insert required image and explanation
 
 
 
@@ -286,7 +286,7 @@ Contribution Points: 25 points <br>
 - Database creation
 - GUI mockup page creation 
 - Demo video recording
-- 
+- Final Powerpoint creation
 - 
 
 Number of submissions on GitHub:
