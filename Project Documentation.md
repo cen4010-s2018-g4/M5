@@ -171,17 +171,7 @@ letting whoever responsible for the website put them in the database. [1]
 
 ### 7. High-Level System Architecture 
 
-Software products and Tools
-Brackets, Notepad++, Putty, WinSCP, FileZilla, GitHub, etc
-Languages and Systems
-English, HTML, PHP, MySQL, Linux, Windows, MacOS, Mobiles , etc
-APIs
-Calendar, Weather
-PHPMailer
-Supported Browsers
-Chrome, Firefox, Opera, Safari, Microsoft Edge, Internet Explorer
-Frameworks
-HTML, PHP, CSS
+![image](https://user-images.githubusercontent.com/39216383/43721241-487b6d9a-9960-11e8-8231-09d8174b5ca4.png)
 
 
 
