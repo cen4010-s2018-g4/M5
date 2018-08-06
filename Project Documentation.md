@@ -54,7 +54,8 @@ Due to the various social activities that take place around campus, our website 
 
 ### 2. Competitive Analysis
 
-*Image of Table 1: Sites Comparison 
+![comp](https://user-images.githubusercontent.com/39216383/43721484-e9a5ee52-9960-11e8-9c47-720b4d16defc.PNG)
+ 
 
 Campus Snapshots will have the ability to upload instant images and videos like our competitors, Instagram and Snapchat. We will use a fluid chat system, implement content monitoring and use a system to block/ban false comments and contents similar to Facebook. Students will also be able to search for events and friends. However, we will add a weather system to alert students of major environmental threats which isn’t an option offered by any of our competitors.
 
