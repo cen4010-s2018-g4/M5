@@ -114,7 +114,7 @@ User Stories:
 
 Use-case diagram:
 
-*Image of Diagram 1: Use-Case Diagram
+![use case](https://user-images.githubusercontent.com/39216383/43721798-d67666e4-9961-11e8-8d49-4e3432386805.PNG)
 
 
 ### 5. High-Level Functional Requirements 
@@ -218,11 +218,12 @@ Verifying is the process where a power user verifies whether a post is accurate 
 *Includes two images: class diagram and component and deployment diagram
 
 Class diagram:
-Diagram 2: Class Diagram
+![class uml](https://user-images.githubusercontent.com/39216383/43721869-ff27752e-9961-11e8-99f9-3cba2f67c3dd.PNG)
+
 
 
 Component and deployment diagram:
-Diagram 3: Component and Deployment Diagram
+![deployment](https://user-images.githubusercontent.com/39216383/43721898-0eeab160-9962-11e8-8066-851a4106c1e0.PNG)
 
 
 
